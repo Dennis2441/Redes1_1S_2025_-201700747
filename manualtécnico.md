@@ -53,7 +53,7 @@
 
 ## ● Captura de pantalla de la demostración de la captura de un paquete ARP y un ICMP en el modo Simulación.  
 
-![Captura de Paquete ARP](./arpp.png)  
+![Captura de Paquete ARP](.ARP...png)  
 ![Captura de Paquete ICMP](./ICMP.png)
 
 ## ● Los comandos utilizados para configurar los switches.  
